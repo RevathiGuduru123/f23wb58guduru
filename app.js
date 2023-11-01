@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var GadgetsRouter = require('./routes/Gadgets');
 var boardRouter = require('./routes/board');
-var boardRouter = require('./routes/choose');
+var chooseRouter = require('./routes/choose');
 
 var app = express();
 
